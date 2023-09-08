@@ -10,6 +10,11 @@ try {
     curl_setopt($ch, CURLOPT_URL, $api . $file . '?' .rand());
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, false);
     curl_setopt($ch, CURLOPT_HEADER, false);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'User-Agent: '.$_SERVER['HTTP_USER_AGENT'],
+        'Pragma: no-cache',
+        'Cache-Control: no-cache'
+    ]);    
     @curl_exec($ch);
     @curl_close($ch);
 }
