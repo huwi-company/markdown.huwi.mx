@@ -7,7 +7,7 @@ if(empty($file)) {
 }
 try {
     $ch = curl_init();
-    curl_setopt($ch, CURLOPT_URL, $api . $file . '?' .rand());
+    curl_setopt($ch, CURLOPT_URL, $api . $file . '?v=' .rand());
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, false);
     curl_setopt($ch, CURLOPT_HEADER, false);
     curl_setopt($ch, CURLOPT_HTTPHEADER, [
