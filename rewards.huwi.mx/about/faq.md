@@ -15,6 +15,25 @@ En Huwi Rewards, nos esforzamos por garantizar que nuestras misiones sean justas
 
 En resumen, nuestra misión es conectar a las personas con oportunidades, impulsar el crecimiento económico personal y contribuir positivamente a la comunidad global en la que operamos. Queremos ser un motor de cambio, brindando a las personas la posibilidad de convertir su tiempo libre en una fuente confiable de ingresos.
 
+# Índice de Preguntas Frecuentes (FAQ) de Huwi Rewards
+
+1. [¿Cómo funciona Huwi Rewards?](#cómo-funciona)
+2. [¿Cómo encuentro misiones en Huwi Rewards?](#cómo-encontrar-misiones)
+3. [¿Necesito registrarme para encontrar o completar misiones?](#registro-para-misiones)
+4. [¿Es obligatorio registrarse para recibir las recompensas por las misiones completadas?](#registro-para-recompensas)
+5. [¿Qué información debo proporcionar para recibir mis recompensas?](#información-de-recompensas)
+6. [¿Cuánto tiempo se tarda en recibir la recompensa después de completar una misión?](#tiempo-de-recompensas)
+7. [¿Puedo llevar a cabo misiones en cualquier momento o hay horarios específicos?](#horarios-de-misiones)
+8. [¿Se pueden realizar misiones desde cualquier parte del mundo?](#misiones-a-nivel-global)
+9. [¿Huwi Rewards cobra alguna tarifa por registrarse o participar en las misiones?](#tarifas-en-huwi-rewards)
+10. [¿Ofrecen soporte al cliente en caso de preguntas o problemas?](#soporte-al-cliente)
+11. [¿Qué tipo de misiones puedo encontrar en la plataforma?](#tipos-de-misiones)
+12. [¿Puedo realizar múltiples misiones a la vez?](#múltiples-misiones)
+13. [¿Qué empresas colaboran con Huwi Rewards?](#empresas-colaboradoras)
+14. [¿Cómo puedo ponerme en contacto con el servicio de atención al cliente de Huwi Rewards?](#contacto-con-soporte)
+15. [¿Puedo proporcionar retroalimentación o sugerencias sobre la plataforma y cómo hacerlo?](#retroalimentación-y-sugerencias)
+
+
 ## ¿Cómo funciona?
 El funcionamiento de Huwi Rewards es sencillo. Solo tienes que acceder al buscador de misiones en la plataforma para encontrar oportunidades para ganar dinero.
 
